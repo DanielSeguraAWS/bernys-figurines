@@ -1,0 +1,33 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify768fb4cf580a4-staging-62449-authRole",
+      "UnauthRoleArn": "arn:aws:iam::168691391400:role/amplify-amplify768fb4cf580a4-staging-62449-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::168691391400:role/amplify-amplify768fb4cf580a4-staging-62449-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-amplify768fb4cf580a4-staging-62449-deployment",
+      "UnauthRoleName": "amplify-amplify768fb4cf580a4-staging-62449-unauthRole",
+      "StackName": "amplify-amplify768fb4cf580a4-staging-62449",
+      "StackId": "arn:aws:cloudformation:us-west-2:168691391400:stack/amplify-amplify768fb4cf580a4-staging-62449/ddfbc090-de22-11eb-bf94-02b5c6242747",
+      "AmplifyAppId": "d1t88s8mj171sn"
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bernysfigurines-prod-03028-authRole",
+      "UnauthRoleArn": "arn:aws:iam::168691391400:role/amplify-bernysfigurines-prod-03028-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::168691391400:role/amplify-bernysfigurines-prod-03028-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-bernysfigurines-prod-03028-deployment",
+      "UnauthRoleName": "amplify-bernysfigurines-prod-03028-unauthRole",
+      "StackName": "amplify-bernysfigurines-prod-03028",
+      "StackId": "arn:aws:cloudformation:us-west-2:168691391400:stack/amplify-bernysfigurines-prod-03028/ac0c7010-de23-11eb-94c5-02e30e53dbb7",
+      "AmplifyAppId": "d1t88s8mj171sn"
+    },
+    "categories": {
+      "auth": {
+        "bernysfigurines9f98b13c": {}
+      }
+    }
+  }
+}
