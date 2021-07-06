@@ -1,0 +1,7 @@
+type Figurine @model {
+  id: ID!
+  name: String!
+  description: String
+  submittedBy: String
+  submittedOn: String!
+}
